@@ -4,7 +4,7 @@ version: 1
 project:
   title: ASTR 501 + 513
   description: Introduction to Computing + Statistical and Computational Methods in Astrophysics
-  authors: [Chi-kwan Chan, Shuo Kong]
+  authors: [Made by Chi-kwan Chan and Shuo Kong]
   github: https://github.com/ua-2026fall-astr501-513/ua-2026fall-astr501-513.github.io
 
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
