@@ -17,8 +17,8 @@
   </tr>
   <tr>
     <td> <b>Date & Time:</b></td>
-    <td> Monday & Wednesday<br/>10:00am-11:15am </td>
     <td> Friday<br/>10:00-11:35am </td>
+    <td> Monday & Wednesday<br/>10:00am-11:15am </td>
   </tr>
   <tr>
     <td> <b>Location:</b></td>
