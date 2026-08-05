@@ -155,7 +155,7 @@ When provided as references, the videos are optional.
 
 ### Schedule/Due Dates
 
-This course includes 10 homework assignments.
+This course includes homework assignments.
 The due dates are listed in the schedule.
 We try to give at least one week of time for finishing each homework.
 Late homework will received reduced grades.
@@ -185,10 +185,11 @@ supporting materials, must be submitted on the day of the presentation.
 
 ## Grading Scale and Policies
 
-The course includes 10 homework assignments, 1 project, and 1 midterm
-exam.
-Each homework is worth 5 points, the project is worth 20 points, and
-the midterm exam is worth 30 points.
+The course includes 6 homework assignments for statistics,
+1 midterm exam, and one final project for computation.
+Each homework is worth 10 points (1 lowest score will be dropped),
+the midterm exam is worth 30 points,
+the final project is worth 20 points.
 The total is 100 points.
 
 This course provides regular letter grades (A-E), which are based on a

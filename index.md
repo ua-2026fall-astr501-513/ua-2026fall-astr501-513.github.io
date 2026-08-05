@@ -47,6 +47,6 @@
 11 | Nov  2-Nov  8 | [](513/04/notes.ipynb) (Proj selection)    | [](513/05/notes.ipynb)                   | Presentations 
 12 | Nov  9-Nov 15 | [](513/06/notes.ipynb)                     | No class (Veterans Day)                  | Presentations 
 13 | Nov 16-Nov 22 | [](513/07/notes.ipynb) (Proj feedback)     | [](513/08/notes.ipynb)                   | Presentations 
-14 | Nov 23-Nov 29 | [](513/09/notes.ipynb)                     | [](513/10/notes.ipynb)                   | Presentations            
-15 | Nov 30-Dec  6 | [](513/11/notes.ipynb)                     | [](513/12/notes.ipynb)                   | Presentations            
-16 | Dec  7-Dec 13 | Project Presentations                      | Project Presentations                    | Visit UA HPC              
+14 | Nov 23-Nov 29 | [](513/09/notes.ipynb)                     | [](513/10/notes.ipynb)                   | Thanksgiving            
+15 | Nov 30-Dec  6 | [](513/11/notes.ipynb)                     | [](513/12/notes.ipynb)                   | Visit UA HPC              
+16 | Dec  7-Dec 9 | Project Presentations                      | Project Presentations                    | 
