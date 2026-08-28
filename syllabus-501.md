@@ -68,7 +68,7 @@ https://deanofstudents.arizona.edu/policies/attendance-policies-and-practices
 
 Participating in the course and attending lectures and other course
 events are vital to the learning process.
-As such, attendance is strongly recommended for all lectures.
+As such, attendance is recommended for all lectures.
 To request a disability-related accommodation to this attendance
 policy, please contact the Disability Resource Center at (520)
 621-3268 or disability@arizona.edu.
